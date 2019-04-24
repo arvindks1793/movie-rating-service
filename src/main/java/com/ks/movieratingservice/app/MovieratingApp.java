@@ -13,7 +13,7 @@ import com.ks.movieratingservice.DAO.MovieRatingDAO;
 @ComponentScan("com.ks.movieratingservice")
 public class MovieratingApp {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		SpringApplication.run(MovieratingApp.class, args);
 	}
 	
